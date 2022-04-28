@@ -3,7 +3,7 @@ function arregloDeObjetos(numeroP,palabraP) {
     
     var arregloPalNum = [];
 
-    var key = palabraP
+    var key = palabraP;
 
     for (let i = 1; i <= numeroP; i ++) {
         
